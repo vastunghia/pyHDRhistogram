@@ -1,7 +1,7 @@
-
-
-
 # pyHDRhistogram
+
+![Sample resulting histogram](sampleResult.PNG)
+
 This repo provides a compact Python script that plots **RGB + luma histograms** for a
 PQ-coded, Display P3 PNG (16-bit or 8-bit), using an **Adobe-style layout**:
 
