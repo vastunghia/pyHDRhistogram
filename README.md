@@ -73,6 +73,9 @@ Key constants inside the script:
 - `BINS_SDR = 256` — number of SDR bins (sRGB-code spaced).
 - `SMOOTH_WIN = 7` — moving average window for curve smoothing (odd integer).
 
+Try with `WHITE = 200.0` and `X_AT_100 = 0.5` if you want to see the SDR <-> HDR
+boundary at 200 nit, as sometimes is found.
+
 ---
 
 ## Notes & assumptions
