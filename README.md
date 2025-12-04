@@ -87,7 +87,7 @@ boundary at 200 nit, as sometimes is found.
 
 ---
 
-Code written with extensive support of ChatGPT 4.5.
+Code written with extensive support of ChatGPT 5.1.
 
 ---
 
